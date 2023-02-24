@@ -1,4 +1,4 @@
-# UniStuff
+# everything uni
 here's my uni coding! from normal assignments to competitive programming related.
 I will tweak the code here and there, whenever I feel like it.
 
